@@ -11,7 +11,7 @@ public class Sjakkbrett extends EasyGraphics {
 
 	public void run() {
 
-		final int L = 10;
+		final int L = 50;
 		final int N = 10;
 		final int startX = 50;
 		final int startY = 50;

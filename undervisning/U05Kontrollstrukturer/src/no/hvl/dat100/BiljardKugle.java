@@ -13,8 +13,8 @@ public class BiljardKugle extends EasyGraphics {
 		
 		final int ANT_ITER = 5000;
 		
-		final int BREDDE = 800;
-		final int HOYDE = 600;
+		final int BREDDE = 600;
+		final int HOYDE = 400;
 		
 		int r = 10; // radius på kuglen
 		
@@ -45,7 +45,7 @@ public class BiljardKugle extends EasyGraphics {
 			
 			moveCircle(id,x,y);
 			
-			pause(10);
+			pause(3);
 			
 		}
 		

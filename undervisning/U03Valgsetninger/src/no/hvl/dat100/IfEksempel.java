@@ -18,7 +18,7 @@ public class IfEksempel extends EasyGraphics {
 	    if (co2 < 500) {
 	    	setColor(0, 255, 0); // green
 	    } else {
-	    	setColor(255,0,0); // red
+	    	setColor(255,255,255); // red
 	    }
 	    
 	    fillCircle(100, 160, 60);
